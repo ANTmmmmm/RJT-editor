@@ -1,5 +1,5 @@
-# **原始JSON文本生成器 b1.1.2版本** 
-***Raw JSON Text editor Version b1.1.2***
+# **原始JSON文本生成器 b1.1版本** 
+***Raw JSON Text editor Version b1.1***
 
 ---
 #### 版本介绍：*Version introduction:*
