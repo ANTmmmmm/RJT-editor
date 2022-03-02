@@ -19,7 +19,6 @@
 ##### 已知的错误 *known bugs*
 
 1.更新完毕后启动新版本时有命令窗口弹出
-
     *A command window pops up when starting the new version after the update is complete*
 
 
